@@ -23,7 +23,8 @@
                     "names":[
                         "Tairitsu （DOS支持）",
                         "Hikari （汇编工作）",
-                        "Kou（QEMU框架管理）"
+                        "Kou（QEMU框架管理）",
+                        "棱镜反馈：prismpigeon@starmoe.com.mp"
                     ]
                 },
                 {
@@ -93,9 +94,29 @@
                     ]
                 },
                 {
+                    "title": "借物游戏",
+                    "names": [
+                        "Lowiro的Arcaea",
+                        "鸽游的Phigros",
+                        "米哈游崩坏系列",
+                        "Milthm",
+                        "Cygames的公主连结",
+                        "Mojang的其它衍生游戏（MCSM1/2）",
+                        "库洛的鸣潮",
+                        "鹰角的明日方舟"
+                    ]
+                },
+                {
+                    "title": "许可协议",
+                    "names": [
+                        "沙雕资源包本体使用GNU GPL-V3许可条款",
+                        "沙雕附加包使用CC BY-NC-SA 4.0国际许可条款"
+                    ]
+                },
+                {
                     "title": "特别感谢:",
                     "names": [
-                        "SPM Mirror Group",
+                        "PRISM棱镜组",
                         "保定市物探中心学校",
                         "基岩版仙山云都服务器",
                         "Twilight XI Firefly Edition Server Powered",
@@ -103,13 +124,30 @@
                         "澜舟云服务器",
                         "还有腐竹真境",
                         "社区版帮忙翻译的朋友们",
+                        "动力之空_SD",
+                        "对立（Axium）",
+                        "写写Word",
                         "还有在玩这个游戏的你",
-                        "",
-                        "",
-                        "",
-                        "辉夜星瞳正在移除关于平四Quadimension的内容，下个正式版本将完全移除。"
+                        ""
         ]
-                        }
+                        },
+                {
+                    "title": "联系我们：",
+                    "names": [
+                        "邮箱：starmoe@starmoe.com.mp",
+                        "QQ群：1004245106",
+                        "网站：https://www.starmoe.com.mp",
+                        "哔哩：辉夜星瞳",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "辉夜星瞳正在移除关于平四Quadimension的全部内容，下个正式版本将完全移除。"
+                    ]
+                }
                     ]
                 }
             ]
