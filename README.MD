@@ -17,6 +17,7 @@
 
  <ROOT>
     [assets]
+    <pack.mcmeta>#资源包元文件，删除将导致资源包不可用
         [bedrockify]#兼容Bedrockify的模块
             [lang]
                 <zh_cn.json>
