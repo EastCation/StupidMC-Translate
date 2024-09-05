@@ -1,0 +1,26 @@
+            - name: Contribute List
+  # You may pin to the exact commit or the version.
+  # uses: akhilmhdh/contributors-readme-action@1ff4c56187458b34cd602aee93e897344ce34bfc
+  uses: akhilmhdh/contributors-readme-action@v2.3.10
+  with:
+    # Size of square images in the stack
+    image_size: # optional, default is 100
+    # Path of the readme file you want to update
+    readme_path: # optional, default is README.md
+    # To use github-id instead of profile name
+    use_username: # optional, default is false
+    # Number of columns in a row
+    columns_per_row: # optional, default is 6
+    # Type of collaborators options: all/direct/outside
+    collaborators: # optional, default is direct
+    # Commit message of the github action
+    commit_message: # optional, default is docs(contributor): contrib-readme-action has updated readme
+    # Username on commit
+    committer_username: # optional
+    # email id of committer
+    committer_email: # optional
+    # check if branch is protected
+    auto_detect_branch_protection: # optional, default is true
+    # Title of the PR that will be created if the branch is protected
+    pr_title_on_protected: # optional, default is docs(contributor): contributors readme action update
+          
