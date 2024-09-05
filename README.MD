@@ -69,6 +69,3 @@
 
 本翻译包使用[GNU GPLv3](LICENSE)许可条款进行许可.
 
-## 贡献者
-<!-- readme: collaborators,contributors -start -->
-<!-- readme: collaborators,contributors -end -->
