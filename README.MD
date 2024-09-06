@@ -16,8 +16,8 @@
 ```Python
 
  <ROOT>
-    [assets]
     <pack.mcmeta>#资源包元文件，删除将导致资源包不可用
+    [assets]
         [bedrockify]#兼容Bedrockify的模块
             [lang]
                 <zh_cn.json>
@@ -54,7 +54,7 @@
 
 本资源包可与梗体中文资源包合并使用；但在使用前请确保您的梗体中文资源包启用了*兼容模式*且此资源包在最顶端，否则您将只能看到梗体中文的翻译。
 
-本资源包建议配合沙雕附加包使用，否则可能会少了很多乐趣。
+本资源包建议配合[沙雕附加包](https://starmoe-my.sharepoint.com/:f:/g/personal/starmoe_starmoe_com_mp/EvBq1wLCheJPiRnwIoZheEoB0HmMHYtBppgRUlmbveV69A?e=tElcnX)使用，否则可能会少了很多乐趣。
 
 ## 如何贡献
 
