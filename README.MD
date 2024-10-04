@@ -1,13 +1,13 @@
 # StupidMC Translate——沙雕翻译包源码库
 
-## PRISM Codeopen Project/已列入棱镜开源计划
+## MoeRain Codeopen Project/已列入萌雨社开源计划
 
 >[英文文档](README_EN.MD)还在准备中，欢迎帮助辉夜翻译！  
 >[English docs](README_EN.MD) stills preparing, welcome to help Starmoe to translate it！
 
 ## 介绍
 
-这是辉夜星瞳与棱镜开发组的作品——沙雕翻译包。本翻译包具有跟APT一样的强大力量。
+这是辉夜星瞳与萌雨社的作品——沙雕翻译包。本翻译包具有跟APT一样的强大力量。
 
 ## 文件结构
 
@@ -58,7 +58,7 @@
 
 ## 如何贡献
 
-您需要Fork或者Git这个仓库，之后在本地创作您的杰作，如果您认为以及创作完毕，提交PR即可
+您需要Fork或者Git这个仓库，之后在本地创作您的杰作，如果您认为已经创作完毕，提交PR即可
 
 如果PR出现了冲突，我们首先会遵循“先来后到”原则，如果后者有比前者更为优质的翻译，我们将会考虑后者而不是前者。
 
@@ -69,4 +69,3 @@
 ## 开源许可
 
 本翻译包使用[GNU GPLv3](LICENSE)许可条款进行许可.
-

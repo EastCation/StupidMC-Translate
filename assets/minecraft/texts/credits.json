@@ -1,10 +1,10 @@
 [
     
         {
-            "section": "曙光信息技术工作室（Twilight Tech Studio）",
+            "section": "辉夜萌雨软件发社（MoeRain Software Developments）",
             "disciplines": [
                 {
-                    "discipline": "沙雕翻译包制作（Stupid MC Translate）",
+                    "discipline": "沙雕翻译包制作（StupidMC Translate）",
                     "titles": [
                 {
                     "title": "策划（Producer）",
@@ -19,12 +19,12 @@
                     ]
                 },
                 {
-                    "title": "PRISM （棱镜组-Minecaea）",
+                    "title": "NRLT （原棱镜组Minecaea制作人员）",
                     "names":[
                         "Tairitsu （DOS支持）",
                         "Hikari （汇编工作）",
                         "Kou（QEMU框架管理）",
-                        "棱镜反馈：prismpigeon@starmoe.com.mp"
+                        "反馈：prismpigeon@starmoe.com.mp"
                     ]
                 },
                 {
@@ -103,6 +103,8 @@
                         "Cygames的公主连结",
                         "Mojang的其它衍生游戏（MCSM1/2）",
                         "库洛的鸣潮",
+                        "Dream Engine Games的Rotaeno",
+                        "Nexon Games的Blue Archive",
                         "鹰角的明日方舟"
                     ]
                 },
@@ -116,7 +118,7 @@
                 {
                     "title": "特别感谢:",
                     "names": [
-                        "PRISM棱镜开发组",
+                        "NuanR_Mxi Lazy Team",
                         "保定市物探中心学校",
                         "基岩版仙山云都服务器",
                         "Twilight XI Firefly Edition Server Powered",
