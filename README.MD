@@ -2,8 +2,8 @@
 
 ## MoeRain Codeopen Project/已列入萌雨社开源计划
 
->[英文文档](README_EN.MD)还在准备中，欢迎帮助辉夜翻译！  
->[English docs](README_EN.MD) stills preparing, welcome to help Starmoe to translate it！
+>[英文文档](README_EN.MD)
+>[English docs](README_EN.MD)
 
 ## 介绍
 
