@@ -1,4 +1,4 @@
-﻿{
+{
   "accessibility.onboarding.accessibility.button": "轻松访问设置...",
   "accessibility.onboarding.screen.narrator": "敲回车以启用“讲述人”",
   "accessibility.onboarding.screen.title": "欢迎来到 Minecraft!\n\n小萌想问您一下是否启用“讲述人”？",
@@ -842,7 +842,7 @@
   "menu.generatingLevel": "地形加载器工作中",
   "menu.generatingTerrain": "载入世界中",
   "menu.loadingLevel": "载入世界中",
-  "menu.modded": "(Starmoe-PRISM-1.21-Post-RTM)",
+  "menu.modded": "(沙雕翻译包，既改)",
   "menu.multiplayer": "进入群集存档",
   "menu.online": "Minecraft 领域",
   "menu.options": "Control Panel",
