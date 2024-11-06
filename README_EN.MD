@@ -1,5 +1,7 @@
 # StupidMC Translate
 
+>[查看中文README](README.MD)
+
 ## MoeRain Codeopen Project
 
 ## Introduction

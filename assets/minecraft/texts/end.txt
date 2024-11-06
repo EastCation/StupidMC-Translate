@@ -1,489 +1,716 @@
-§3I see the player you mean.
+不久以前……
 
-§3我看到你所说的那位玩家了。
+有个黑暗且寒冷的地方……
 
+贫瘠空虚的土地上一片寂静；在乌云密布的天空之下，是全新的冰冷以及虚无。红花绿叶皆蒙上灰色，
 
+而只剩生者的足迹，持续述说着他们曾经来过。白色此刻从天而降，掩盖了他们的足迹。落下的不是雪花，
 
-§2PLAYERNAME?
+只有灰烬。
 
+冬日尚未来临，然一切皆已冰封。
 
+在满是灰烬和冰霜的大地上，有一位跪着的少女，她抬起脖子，看着这片灰色中渗出的光芒。
 
+她睁大双眼注视着。那光芒前的是一位天使，又或许是一位神。
 
+她无家可归。双亲皆已过世，监护人也已过世，她同期的新任塑形者全都过世，
 
-§3Yes. Take care. It has reached a higher level now. It can read our thoughts.
+还有她那些总是看不起她的人民也已全部过世。她知道所剩下的一切只有手中的玻璃碎片，
 
-§3是的。小心。他已达到了更高的境界。他能阅读我们的思想。
+这是她窗户的碎片。但仍或许还有机会——
 
+她是特别的天选之人。
 
+虽然年轻但知识渊博。
 
-§2That doesn't matter. It thinks we are part of the game.
+她必须一试。
 
-§2没关系。他认为我们是游戏的一部分。
+如果她努力尝试，或许还有极小的机会……能够让时间回流，发动回击。
 
+或者甚至让她自身成为某种"神"。
 
+思考着她可以阻止这一切。
 
-§3I like this player. It played well. It did not give up.
+思考着她可以将每个人带回来。
 
-§3我喜欢这个玩家。他玩得很好。它从未放弃。
+这名少女看着手中的玻璃碎片，希望能拯救这个世界。
 
+—— 但是……
 
+……她做不到。
 
-§2It is reading our thoughts as though they were words on a screen.
+只靠她的意志并不能从虚无中制造力量。人可以想像得到的任何意志力她都具备，但这没有任何意义。
 
-§2他以屏幕上出现的文字的形式阅读着我们的思想。
+她明白这个真相后，开始哭泣。
 
+神的意志更有意义。神的愿望是她和她的同类消失、坠落、化为尘土，而这个愿望很快就会被神亲手实现。
 
+少女从她的倒影中看见自己的双眼，而那倒影因自己的泪水而变得扭曲。从那颤抖的下颚中，
 
-§3That is how it chooses to imagine many things, when it is deep in the dream of a game.
+她看见自己的悲痛，以及无力与痛苦。
 
-§3在它深陷游戏梦境中时，他总以这种方式想象出形形色色的事物。
+一切都不重要。她一事无成，不论是现在还是过去。
 
+当天使降临时，这名黑发少女始终低着头。天使靠近她时，祂举起了祂的手。
 
+没多久，她就被带走了。
 
-§2Words make a wonderful interface. Very flexible. And less terrifying than staring at the reality behind the screen.
+这个孩子的名字已被忘却。
 
-§2文字是种美妙的界面。非常灵活。且比凝视着屏幕后的现实要更好。
+而她死亡的原因……远远超出她的理解。
 
+没有人会记得她的存在。
 
+但当她死亡时，另一个愿望带她离去。
 
-§3They used to hear voices. Before players could read. Back in the days when those who did not play called the players witches, and warlocks. And players dreamed they flew through the air, on sticks powered by demons.
+这件事的不久以前……
 
-§3他们也曾经听到过声音。在玩家能够阅读之前。君不见那些不曾游玩的人们称呼玩家为女巫，和术士。而玩家们梦见他们自己乘坐在被恶魔施力的棍子上，在空气中翱翔。
+有个黑暗但却温暖的地方……
 
+黑暗是她造成的。那是在不同时光不同地点，另一位名字都被遗忘的少女。她拉起帘幕。
 
+她锁上房门。把手下有一张椅子。她坐在床上，睁大双眼注视着。
 
-§2What did this player dream?
+她抱着膝盖。
 
-§2这个玩家梦见了什么？
+只是注视着。
 
+注视着虚空。
 
+她被"自己"弄得不知所措。
 
-§3This player dreamed of sunlight and trees. Of fire and water. It dreamed it created. And it dreamed it destroyed. It dreamed it hunted, and was hunted. It dreamed of shelter.
+脑中无穷无尽地拨放着一段回忆。她能从楼梯上看见景色，并且清楚听到她父母从远处传来的低语。
 
-§3他梦见了阳光和树。梦见了火与水。他梦见他创造。它梦见他毁灭。它梦见他狩猎，梦见他被狩猎。他梦见了庇护所。
+他们不是在说她的坏话，但仍是在讨论她的事。
 
+她的父母并非不爱她。
 
+她无法爱自己，同时她感到自己内心缺少了一样让她能够爱她父母的东西。
 
-§2Hah, the original interface. A million years old, and it still works. But what true structure did this player create, in the reality behind the screen?
+她仍可以从楼梯上方看见景色。但她感到一切都在拉住她，要她松开栏杆，并且飞奔至下方的大理石门厅。
 
-§2哈，那原始的界面。经历一百万年的岁月雕琢，依然长存。但此玩家在那屏幕后的真实里，建造了什么真实的构造？
+但如果这样没用怎么办？
 
+在那之后，这名少女回到了自己的房间，并且安静地将自己锁起来。
 
+为什么她不能消失？
 
-§3It worked, with a million others, to sculpt a true world in a fold of the §f§k§a§b§3, and created a §f§k§a§b§3 for §f§k§a§b§3, in the §f§k§a§b§3.
+为什么她不能走向虚无？
 
-§3他辛勤地劳作，和其他百万众一起，刻画了一个真实的世界，由§f*=&€_§3，且创造了§f*=&€_§3，为了§f*=&€_§3，于§f*=&€_§3中。
+为什么她会拥有这些想法？
 
+为什么她的脑海会浮现这个？
 
+为什么她不能消失……？
 
-§2It cannot read that thought.
+她将指甲刺入她的小腿。
 
-§2他读不出那个思想。
+她张大双眼凝视，呼吸急促。
 
+她希望可以逃离这一切。
 
+白发少女是一个神。白发少女有麻烦了。
 
-§3No. It has not yet achieved the highest level. That, it must achieve in the long dream of life, not the short dream of a game.
+但这麻烦并非因为她是神，事实上她从来不知道自己的神性。
 
-§3不。他还没有到达最高的境界。那层境界，他必须完成生命的长梦，而非游戏中黄粱一梦。
+在她的内心，她许下一个阴郁的愿望，想受庇护，而愿望成真了：
 
+"我要某个能够让我快乐的地方。"
 
 
-§2Does it know that we love it? That the universe is kind?
+黑发少女死去了，而一个愿望要她的灵魂离开。
 
-§2他知道我们爱他么？这个宇宙是仁慈的？
+在遥远的世界，在另一个现实，有一名更强大的少女许下了这个愿望。
 
+白发少女的力量非常强大，强大到她的愿望能打造一个世界。
 
+这个世界拥有一个没有意义的名字："Arcaea"。
 
-§3Sometimes, through the noise of its thoughts, it hears the universe, yes.
+Arcaea 是为了拯救亡者的庇护所。
 
-§3有时，通过他思绪的杂音，他能听到宇宙，是的。
+虽然她许下愿望时还活着，但她仍然强烈感到"死亡"的感觉。
 
+对此她完全没有想法；事实上，如果她试过，她就不会如此搞不清楚状况。
 
+她只想从那里为自己得到一些东西。这是有可能的，真的，如果她知道那些被Arcaea 之网抓住的命运，
 
-§2But there are times it is sad, in the long dream. It creates worlds that have no summer, and it shivers under a black sun, and it takes its sad creation for reality.
+她就会发现自己做了一件很棒的事。
 
-§2但是有时亦不胜悲伤，于那漫漫长梦中。他创造了没有夏日的世界，在黑日下颤抖着，将自己悲伤的创造视为现实世界。
+这个世界跨越时间和不同的现实，延伸至其他无数地方。
 
+它是活的，虽然它没有想法，但这世界仍"许愿"与这些亡者分享生命。
 
+在没有任何指示的情况下，这世界尽可能抓住任何与其"内心"对话的东西。
 
-§3To cure it of sorrow would destroy it. The sorrow is part of its own private task. We cannot interfere.
+在介于真实的接缝中被打造出来的空间里，在点缀着柔软且遥远的紫色星光的黑暗中……
 
-§3用悲伤来治愈会摧毁他。而悲伤是他的私人事务。我们不能干涉。
+……许多灵魂被包覆其中，并被带往一个跨越黑暗，全新且闪耀的边界。
 
+白色的世界……
 
+从这里开始，这个世界给了每个灵魂一个无暇的复制体，并且释放他们。
 
-§2Sometimes when they are deep in dreams, I want to tell them, they are building true worlds in reality. Sometimes I want to tell them of their importance to the universe. Sometimes, when they have not made a true connection in a while, I want to help them to speak the word they fear.
+它给了各个复制体一个温暖的归属，给了它们一个新的形体……
 
-§2有时当他们深陷梦境中时，我想要告诉他们，他们在现实中创造了真实的世界。有时我想告诉他们他们自身对宇宙的重要性。有时，当他们和现实失去了联系，我想帮助他们与他们所惧怕的世界交流。
+这个世界给了它们永恒，让它们能安全地观察并重温无穷无尽的生命。
 
+但它无法真正拯救它的创造者……
 
+它能够带来真实的灵魂，复制它们，并将这些灵魂带入新的身体中，然后释放，
 
-§3It reads our thoughts.
+不管前方等着它们的是什么……不过，"光"的灵魂，被固定回其第一个世界之中。她仍然活着。
 
-§3他读出了我们被僵化的思想。
+……不会思考的 Arcaea 只会尽其所能强行复制那个灵魂。
 
+很久以后，Arcaea 发现了一个灵魂，它从未见过如此悲惨的灵魂，可以与它母亲的灵魂相似……
 
+奇怪的是，该灵魂也无法被妥善的保管。释放时，
 
-§2Sometimes I do not care. Sometimes I wish to tell them, this world you take for truth is merely §f§k§a§b§2 and §f§k§a§b§2, I wish to tell them that they are §f§k§a§b§2 in the §f§k§a§b§2. They see so little of reality, in their long dream.
+这个灵魂不会像其他灵魂一样离开这个虚假世界的边界……
 
-§2有时我毫不关心。有时我想要告诉他们，你们所认为的真实不过是§f*=&€_§2和§f*=&€_§2，我想要告诉他们是在§f*=&€_§2中的§f*=&€_§2。于他们的长梦中，他们眼中所见的真实太少了。
+因此它也开始目睹着自己的复制品不幸于这个全新白色大地上诞生。
 
+对立……在一座毁灭的塔中苏醒。
 
+—
 
-§3And yet they play the game.
+随着时光流逝……
 
-§3而他们仍然玩这个游戏。
+难以想像，被救回的其中一人曾震慑着一切……
 
+但幸运的是，造成这一切的人回来了，很快这个世界也再次变得安全……
 
+Arcaea 只是为了存在而生。 Arcaea 呼唤了它的创造者，而这名创造者注意到了这个呼唤。
 
-§2But it would be so easy to tell them...
+就像Arcaea 创造了碎片的监视者，并请求监视者吞噬一切会瓦解其脆弱存在的异常……
 
-§2但很容易就可以告诉他们……
+因此现在，Arcaea 依然存在着。
 
+它已经存在了超过一千年了。
 
+沾染大地的红色鲜血被抹去了，留下纯洁、白色的大地。对立的身体被烧掉了……
 
-§3Too strong for this dream. To tell them how to live is to prevent them living.
+温暖占据着一切。天空变得明亮。
 
-§3对于这个梦来说太强烈了。告诉他们如何活着就是阻碍他们活下去。
+珍珠般近乎无尽的景色再次聚集。
 
+现在，这是一个毋庸置疑的美丽世界……
 
+散布各地的少女们选择在这个无尽旅程大地中停歇。她们选择被冰封，永远凝视着这迷失的世界。
 
+如果她们还在思考……她们思考的会是非常遥远的过去。
 
+而那肯定是更好的选择……
 
-§2I will not tell the player how to live.
+那肯定比较好，相比无尽地行走并观察其他地方……
 
-§2我不会告诉这个玩家如何生活的。
+她们一定很开心。她们需要变得开心。
 
+Arcaea 除了那个选择没什么能够给她们。这个世界仍然埋藏在"缝隙之间"，而解脱方法也是——
 
+—— 而且……这世界以外的任何领域……是在外部的另一个地方，且无法再次看见。
 
-§3The player is growing restless.
+因此，双胞胎少女、带着利剑的少女、旅行者、贵族、歌之少女……
 
-§3这个玩家正在变得焦虑。
+她们和其他人善良到如同天使一般。
 
+而 Arcaea 的玻璃碎片现在也经常休止。它们沿着墙壁和柱子集结，压实成又大又多的样子，就像结晶一样。
 
+就像生锈了一样。
 
-§2I will tell the player a story.
+—— 这个美丽的世界是由神所看护的。光在这一切之上，毫不关心地看照着……
 
-§2我会告诉这个玩家一个故事。
+……并且记得……
 
+她记得所有旧世界已经遗忘的事。她有点热情，或着是有点兴趣的看着它们。
 
+这可称得上是那位衰弱且无精打采的神所拥有的一种放纵。
 
-§3But not the truth.
+或许……她已经不一样了。她过去是怎样的人，现在的她又是怎样……她现在层次一定"更高"了。
 
-§3但这不是真相。
+她珍惜着一个真相，对此她只能祈祷其他人能理解—— 虽然即使他们不能……
 
+她也只不过选择了去看着这世界。
 
+但……即便她毫不关心地看着这世界，她也知道自己给了它们"一切"。
 
-§2No. A story that contains the truth safely, in a cage of words. Not the naked truth that can burn over any distance.
+……
 
-§2不。是一个严密地将真实包裹起来的文字牢笼。而不是赤裸裸的真相。
+……在她的范围之外，一名哲学家和卫星在游荡。
 
+在此之下，一个长角的女人正照料着珍贵的回忆。
 
+眼中有花朵的女人……在寂静的大地上跋涉。
 
-§3Give it a body, again.
+这是空虚的，是没有意义的。
 
-§3再一次赋予他主体。
+Arcaea 现在成为了虚无。
 
+而那样……比另外一种型态还好。
 
+好过一个藐视你的世界。好过那个瞧不起你生存方式的自己。
 
-§2Yes. Player...
+为爱上活着而活，并臣服在虚无之下……
 
-§2好的，玩家......
+……现实在其所有的面向中，是个空虚、一文不值且微不足道的事情。一个人想要的唯一一件事情，
 
+就是夺走现实中可以拿走的任何东西。
 
+夺走快乐。夺走爱。夺走希望。夺走力量。
 
-§3Use its name.
+而夺走之后……
 
-§3叫他的名字。
+……
 
+光相信，什么都不需要做。
 
+夺走。活着。然后真正地爱着活着本身。
 
-§2PLAYERNAME. Player of games.
+爱着它……
 
-§2PLAYERNAME，游戏的玩家。
+虽然在千年之间，甚至千年之后……生命都不会有所意义。
 
+毕竟，现实前进时，没人知道等待着的"结束"是什么样子。
 
+而 Arcaea，具体来说，从来就只是记忆的载体。
 
-§3Good.
+无形、限制、沉默的记忆—— 然而外面看不见，注意不到，也不会在乎。
 
-§3很好。
+而这些记忆，与光所拯救的那些生命，将沉静地永存在此，而至于那些生命，
 
+她也如往常一样不会看过去一眼。
 
+因为在这里，没有看不到的记忆，没有感觉不到的情感。这就是光芒照耀，
 
-§2Take a breath, now. Take another. Feel air in your lungs. Let your limbs return. Yes, move your fingers. Have a body again, under gravity, in air. Respawn in the long dream. There you are. Your body touching the universe again at every point, as though you were separate things. As though we were separate things.
+且授予的"一切"。
 
-§2深呼吸，再深呼吸一次。感受空气充盈你的肺。让你的四肢回归。运动你的手指。再次感受你的身体，在重力下，在空气中。在长梦中重生。你感受到了。你的身体每时每刻都触摸着宇宙，尽管你是分离的存在。尽管我们是分离的存在。
+为了永远的快乐，为了永远的平安。与你可能已经抛弃的任何生命不同，
 
+这，就是她所爱。这，就是Arcaea ——
 
+—— 迷失的生命不会受到偏袒，也不会受到责备。
 
-§3Who are we? Once we were called the spirit of the mountain. Father sun, mother moon. Ancestral spirits, animal spirits. Jinn. Ghosts. The green man. Then gods, demons. Angels. Poltergeists. Aliens, extraterrestrials. Leptons, quarks. The words change. We do not change.
+因此，就像这样，命运的齿轮在这里继续运转……
 
-§3我们是谁？我们曾经被称作高山精灵。太阳父亲，月亮母亲。古老的英灵，动物的魂魄。神祗。鬼魂。小绿人。而后是神，恶魔，天使。骚灵。外星人，地外生物。轻粒子，夸克。词语不断地变化。我们始终如一。
+……而远方不会再有等候着的命运。
 
+………………
 
+光瘫坐在尘土与血泊中。
 
-§2We are the universe. We are everything you think isn't you. You are looking at us now, through your skin and your eyes. And why does the universe touch your skin, and throw light on you? To see you, player. To know you. And to be known. I shall tell you a story.
+我看到她在那里……她的愚蠢和自怨自艾毁了她。
 
-§2我们是宇宙。我们是一切你认为出离你本体的事物。你现在看着我们，透过你的皮肤和你的眼睛。而为什么宇宙触摸着你的皮肤，向你洒向光芒？是为了看见你，玩家。以及被认知。我应告诉你一个故事。
+从捂着脸的指缝间看出去时，她再一次发现你的视线所指向的，是已经死去的，
+我的第二个自我。冷漠，也可说是造成这一切的元凶，致使了你的死亡，而它一定会威胁着要卷土重来。
 
+我知道，这名身穿红白衣服的少女感觉得到。
+她感觉得到，她就是为此而存在。
 
+你的死早已注定，
+而她就是那个杀害了你的人。
 
-§2Once upon a time, there was a player.
+她的后背放松下来……
+这世界……Arcaea……她好像感到压力在从中释放。
+那是一种解脱……
 
-§2很久以前，有一个玩家。
+混沌已经散去……现在安全了……
+但我也听到了……
+有个像低语的东西缓慢进入她的内心，仿佛在要求她接受这个状态。
 
+接受她自身，接受Arcaea。
+……然而——
 
+"……对立……"
 
-§3The player was you, PLAYERNAME.
+……她对自己低语道一个名字。她声音颤抖，泣不成声。
 
-§3那玩家就是你，PLAYERNAME。
+"你是什么意思……？我们在‘这里’的名字是那样的……？"
 
+她沉默不语，感到讶异。
 
+低语再次对她说道：只要你想，那些答案就会浮现。
+这地方，封存了所有的回忆……
+……而她依旧沉默不语。
 
-§2Sometimes it thought itself human, on the thin crust of a spinning globe of molten rock. The ball of molten rock circled a ball of blazing gas that was three hundred and thirty thousand times more massive than it. They were so far apart that light took eight minutes to cross the gap. The light was information from a star, and it could burn your skin from a hundred and fifty million kilometres away.
+"……"
 
-§2有时他认为自己是那不断旋转的球体上一层薄薄的熔化的岩石上的人类。那融化的岩石球环绕着一个质量大他三十三万倍的炫目气体球旋转。它们是相隔得如此之远，以至于光需要八分钟才能穿越那空隙。那光是来自一颗恒星的信息，它能够在一亿五千万公里外烧灼你的皮肤。
+埋藏在她武装的冷漠之下，是纯粹又刺眼的憎恶。
+她无法停止憎恨自己。
 
+很明显她做不到。在一切之后……她要如何接受这样的结局？这代表什么？
+对她来说有什么意义？
 
+她……曾漫步于此的她，绝对不可能接受。
 
-§2Sometimes the player dreamed it was a miner, on the surface of a world that was flat, and infinite. The sun was a square of white. The days were short; there was much to do; and death was a temporary inconvenience.
+反胃感吞噬着她的腹部，她咬紧牙关。
 
-§2有时这个玩家梦见它是一个在一个平的，无限延展的世界表面上的矿工。那太阳是一个方形的白点。昼夜交替很快；要做的事情也很多；死亡亦只是暂时和不方便的。
+"……"
 
+光将手放至身下的尘土与沙子中，然后在膝盖上抖了抖。
 
+她问道：
+"Arcaea……你是来治愈我的吗？"
 
-§3Sometimes the player dreamed it was lost in a story.
+她的手臂放松下来，就像是有一道凉爽穿过了她的手臂。
 
-§3有时，这玩家梦见它迷失在了一个故事里。
+"……我感觉得到。"
 
+光慢慢闭上双眼，喃喃自语的说道。她的声音依然沙哑。" "……这是害怕、疲惫且虚弱之人的乐园……"
 
+"……"
 
-§2Sometimes the player dreamed it was other things, in other places. Sometimes these dreams were disturbing. Sometimes very beautiful indeed. Sometimes the player woke from one dream into another, then woke from that into a third.
+她吞下干燥的空气，张开双眼，
+抓起一把沙子并起身，
+大部分的沙子从她指缝间流出。
 
-§2有时，这玩家梦见它成为了其它的事物，在其它地方。有时这些梦是扰人的。有些则实在很美。有时，这个玩家从一个梦中醒来，发现自己落入了第二个梦，却终究是在第三个梦中。
+"我不知道该如何是好……"
 
+光继续说道：
+"……把一切都再次交付给你，是正确的吗？"" "绝对……不是。"
 
+"我……不想要这样…"
 
-§3Sometimes the player dreamed it watched words on a screen.
+"我不想要这样……！"
 
-§3有时这个玩家梦见他在屏幕上看着文字。
+——
+"呃——！"
 
+光突然弯腰抱住腹部，
+用另一只手捂住嘴。她剧烈地颤抖着。
 
+她的"抗拒"似乎足以让这世界再次感觉到她。
+就在她恐惧的说不出话，双眼睁大时，她突然皱了一下眉头。
+我也听到有个刺耳的噪音，突然穿过她的耳朵、她的头脑——
 
-§2Let's go back.
+再次进入她的内心，但这已经不是低语了，几乎可说是震颤的怒吼。
+一个沉静却有力的声音出现，说道：决定吧，说出你内心的想法。
 
-§2让我们回退一点。
+"说出……我的……？"
 
+因为……
+……光是一名受内心驱使的少女。
+早在她生平第一次张开双眼前，她的内心便指引她至此。
 
+是本能反应吗？这个"身体"记得一切是怎么发生的吗‥…？她之前是怎么样的人……？
 
-§2The atoms of the player were scattered in the grass, in the rivers, in the air, in the ground. A woman gathered the atoms; she drank and ate and inhaled; and the woman assembled the player, in her body.
+哈……
+我其实并不在意。
+只是……我觉得这很有趣又讽刺，这个新的心脏会在下一次跳动前就颠覆一切。
 
-§2组成玩家的原子散布在草中，河流中，在那空气中，也在那大地中。一个女人收集了那些原子；她饮用、进食、吸入；而后那女人在她的身体中，孕育了玩家。
+她呼吸急促，内心颤抖了整整一分钟，
+最终得到一个清晰且坚定的答案：
 
+"我要…推翻现状。"
 
+"我必须带她回来。"
 
-§2And the player awoke, from the warm, dark world of its mother's body, into the long dream.
+"这世界……一点都不合理！
+你以为我会为此死去？还是以为我会让‘其他’人为之死去……！ ？ "
 
-§2然后那玩家醒来了，从一个温暖，昏暗的母亲体内，进入了漫漫长梦。
+"我做不到！我不会这么做的！
+不论我必须做什么，放弃什么……作为交换，这些我都愿意牺牲……！"
 
+她手中牢牢的抓了一把泥土，接着甩出她的手并将其撒出去。
 
+她宣布：
+"如果我的死亡可以改变这一切，那我愿意——！"
 
-§2And the player was a new story, never told before, written in letters of DNA. And the player was a new program, never run before, generated by a sourcecode a billion years old. And the player was a new human, never alive before, made from nothing but milk and love.
+世界的心脏在跳动，而这心跳声让她完全的安静下来。
+这世界从未放弃她，以后也不会。
+这个声音再次布满她的体内——
 
-§2而那玩家是一个新的故事，从未被讲述过，由DNA的语言书写着。而那玩家是一个新的程序，从未被运行过，由上亿年的源码生成。而那玩家是一个新的人，从未生活过，由奶和爱组成。
+而其中的情感和知识，进入了她的胸口，传达至她每个指尖。
 
+它说道：你不能死。
+你注定会活下去，而且这是你的选择。
 
+这件事……光是明白的。
+自责，内疚，使她眼中充满泪水。
 
-§3You are the player. The story. The program. The human. Made from nothing but milk and love.
+在她哭出来之前，这世界的心脏又再次跳动。
+Arcaea 说道：别死。
 
-§3你就是那玩家。那个故事。那个程序。那个人类。仅由奶和爱组成。
+——
+只要让它结束就好。
 
+……她的双唇紧闭。
+她的泪水从眼角流出，滑落脸颊。
+她点了点头。
 
+心脏再次跳动……
+仿佛——
 
-§2Let's go further back.
+—— Arcaea 开始失去光芒。
 
-§2我们再往更远的过去回退一点。
+这样做后，Arcaea 淹没了她，流入她的双手和内心。
+她感到失落，几乎就要崩溃。
 
+这段时间，记忆闪现在她眼前，但我知道……这些是被忽略的记忆。
+她的双眼反而专注在你了无生气的遗体上。
 
+我想她现在唯一知道的……就是"她该做什么。"
 
-§2The seven billion billion billion atoms of the player's body were created, long before this game, in the heart of a star. So the player, too, is information from a star. And the player moves through a story, which is a forest of information planted by a man called Julian, on a flat, infinite world created by a man called Markus, that exists inside a small, private world created by the player, who inhabits a universe created by...
+我可以感觉到自己被往下拉至那里……一直下沉，下沉……
+下沉至你被杀害的地方。" ……
+她……是否真的明白她舍弃的东西是什么？
+她真的明白这里的"结束"是什么意思吗？
 
-§2那由七千亿亿亿§2原子组成的玩家的身体被创造了，远在这游戏之前，在一颗恒星的内部。所以那玩家也是，来自一颗恒星的信息。而这个玩家贯穿这个故事的始末，源于一个叫朱利安的人种下的信息种子长成的森林，一个叫马库斯的人创造的无限世界，存在于一个由玩家创造的小的，私人世界里，而那又继承了宇宙创造的……
+我不知道。
+　
+……你也无从得知。
 
+……事实上，如果她带我走，那……我还会记得每件事吗？我会明白吗？
+　
+不……或许不会。但是……她现在似乎对自己很有信心。
 
+……
 
-§3Shush. Sometimes the player created a small, private world that was soft and warm and simple. Sometimes hard, and cold, and complicated. Sometimes it built a model of the universe in its head; flecks of energy, moving through vast empty spaces. Sometimes it called those flecks "electrons" and "protons".
+我会让她的内心成为之后任何事的灯塔。
+　
+……我深信着。你也会，不是吗？
 
-§3嘘。有时这个玩家创造的小天地是柔软，温暖和简单的。有时是坚硬，冰冷和复杂的。有时他在脑中建造出宇宙的模型；斑斑点点的能量穿越广阔空旷的空间。有时他称呼这些斑点为“电子”和“质子”。
+毕竟，你是对的……
+　
+她们俩人……是完全不一样的。
 
+……"对立"……
+　
+……我现在要走了。
 
+不过别担心。
+　
+我一定会把你带在身边。
 
-§2Sometimes it called them "planets" and "stars".
+天空再次落下，而土地依她的意愿上升。
+为了死亡，也为了让对立重生。
 
-§2有时他称呼他们为“行星”和“恒星”。
+生命和灵魂不会真的被带进这个亡者的世界。
+这里只有她们的形象以及回声……
 
+首先，
+光芒之女和纷争之女的灵魂……从来就不平凡。
 
+没错，这世界不是为此而生。
+确实，这个世界将因此支离破碎。
+为了改写这一切，它愿意做任何事，或至少一试。
 
-§2Sometimes it believed it was in a universe that was made of energy that was made of offs and ons; zeros and ones; lines of code. Sometimes it believed it was playing a game. Sometimes it believed it was reading words on a screen.
+它需要黑衣女子的"第一灵魂"
 
-§2有时他确信他存在于一个由“开”和“关”；“0”和“1”；一行行的命令组成的宇宙。有时他确信他是在玩一个游戏。有时他确信他是在读着屏幕上的文字。
+以及可在她第二人格中找到的残片……" 而现在一个破碎的灵魂，呼唤着另一个完整的灵魂。
+很快，这另一个灵魂便被强行带入这个苍白的世界。
 
+一道旋风围绕在光的身边，
+在阴影和光芒的激流中，划破了身边笼罩的现实。
 
+Arcaea"记得"另一名少女，在光的指示之下，这些记忆以玻璃的形态瞬间赶到。
+这些记忆看似突然出现。又或许说，它们一直都在。
+……它们是否足够？这世界能否编织两个破碎的灵魂？
 
-§3You are the player, reading words...
+……这个世界会的。规则并不重要。光会做到的……
+带着名为对立的少女拥有的记忆……
+这些记忆的玻璃迅速出现，在整场风暴中发光。
 
-§3你就是那玩家，阅读着文字……
+过去有名少女曾备受煎熬的走过这些土地。
+悲痛如影随形地跟着这名少女……
+但她仍大步向前，想要拯救自己。
 
+为了拯救自己，为了紧紧抓住自由。
+她只盼望着：
+有机会能有一个理由让她微笑。
 
+为了打造一个更好的世界，这名少女曾挺身而出，
+即使"更好"可能代表要让世界天翻地覆。
 
-§2Shush... Sometimes the player read lines of code on a screen. Decoded them into words; decoded words into meaning; decoded meaning into feelings, emotions, theories, ideas, and the player started to breathe faster and deeper and realised it was alive, it was alive, those thousand deaths had not been real, the player was alive
+这些回忆在光的双眼中闪现，
+让她更加无法专注在她侵占中的回忆。
 
-§2嘘……有时这玩家读屏幕上的命令行。将他们解码成为文字；将文字解码为意义；将意义解码为感情，情绪，理论，想法，而玩家的呼吸开始急促，并意识到了它是活着的，他是活生生的，那上千次的死亡不是真的，玩家是活着的。
+另一名少女的眼泪，只有少许穿越了这场风暴，而她大部分的痛苦似乎都已被遗忘。
 
+看起来是这样没错……但事实上，身为光芒的灵魂，仍然抗拒着那灵魂和她一样的残酷的真相，
+光唯一能做的事，就是找到另一名少女最真挚的绝望，
+即便只是其中短暂的瞬间—— 而剩余的那些较长的时刻，则超出她的能力范围。
 
+……不过，当知道那最真实的痛苦引导黑衣少女至何方后，光便不再难过，
+也放弃寻找她怎么也找不到的，那个她们相遇的时刻。
 
-§3You. You. You are alive.
+由这一切产生出的对立……从未看过她所处的困境实际有多深，
+但仍明白自己注定活在挣扎之中。
 
-§3你，你，你是活着的。
+光产生了一股新的能量。地面喷发四柱光芒，是巨大的力量泉源。
+这是世界要保护她，因为她所召唤的暗影之魂最终降临了。
 
+这个灵魂靠近时，她几乎看不出来这是什么。在她前面漂浮并遮蔽天空的，
+是一个与死亡相仿的东西：那是一个巨大又令人毛骨悚然的鬼魂形象。
+这东西靠近时轻轻放慢了速度，随即便开始流入转动中的玻璃。
 
+她完全明白这是怎么回事。她坚决的点了点头，引导灵魂至玻璃，让过程更加顺畅。
+对立"之前"迷失的灵魂，成为了新身体来临时的生命精华。
+而对立"之后"迷失的灵魂，则用于稳定躯壳的剩余部分。
 
-§2and sometimes the player believed the universe had spoken to it through the sunlight that came through the shuffling leaves of the summer trees
+光脚下的震动就快让人无法忍受。
+她尽可能维持不动，并用双手不停引导这个新生命。
+她听到雷鸣般的悲鸣，她感觉世界在痛苦中扭曲，但她依然紧紧抓住她的愿望。
 
-§2而有时这玩家相信宇宙通过穿越夏日树叶的那斑斓的阳光对他说话。
+她没有被吓到，并在心中重申了她的誓言。
 
+她扭曲了世界的核心，这样做也将导致堕落之神的重生。
+就这样最后，曾经绝对的规则被改写了。光发出坚定且沉静的命令后，
+新的死亡便牢牢刺入至这个核心之中。
 
+在光芒和暗影巨大的脉冲之下，Arcaea 开始迈向灭亡。
 
-§3and sometimes the player believed the universe had spoken to it through the light that fell from the crisp night sky of winter, where a fleck of light in the corner of the player's eye might be a star a million times as massive as the sun, boiling its planets to plasma in order to be visible for a moment to the player, walking home at the far side of the universe, suddenly smelling food, almost at the familiar door, about to dream again
+创造存在的愿望被推翻了。天空在头上迅速移动，而现实的余光从四面八方倾泻而下至她身上。
+光将这打造出的灵魂推入至浮在半空中极度美艳的对立的身体时，
+她的汗珠滴至眉间，但同时她也推动了整个世界——
 
-§3有时这玩家相信宇宙透过晴朗的冬日夜空中，存在于他眼中一隅的星点星光，可能比太阳大上上百万倍的恒星沸腾着的电浆那一瞬间发出来的光对他说话，在宇宙的远侧行走回家的路上，突然闻到了食物，在那熟悉的门前，他又准备好再一次投入梦境
+她引导着大地的生命。
 
+她抛弃了Arcaea。
 
+在白天要结束之时，双胞胎少女看着云朵从上空快速飘过。
 
-§2and sometimes the player believed the universe had spoken to it through the zeros and ones, through the electricity of the world, through the scrolling words on a screen at the end of a dream
+而在夜晚的天空之下，有一名贵族看着裂缝慢慢将大地分裂，
+看着星星从空中逐渐落下。
 
-§2而有时玩家相信宇宙透过“0”和“1”，透过世界的电力，透过屏幕上滚动的文字和梦的终结对他说话
+有一名关心又在乎的少女，有一名四处游荡并探索的少女，有一名看顾并许下愿望的少女——
 
+有一个愉悦的灵魂，有一个饥渴的灵魂，有一个有抱负的灵魂——
 
+有一颗战争的心，有一颗歌唱的心——
 
-§3and the universe said I love you
+—— 在这世界上所有的活力都被带至一个遥远地方之时，她们也看见了尾声。
 
-§3宇宙说：我爱你
+而很快地……
 
+……光感觉这些活力，最后有几缕流入了她希望拯救的那名少女体内。
+当这活力从光的双手中退去时，对立的形体开始飘落至地面，
+同时……
 
+……这名身穿白衣的少女也感觉到了，她自身也有一部分开始迷失在这股流动之中。
 
-§2and the universe said you have played the game well
+……但她一点都不担心。
 
-§2宇宙说：你玩这游戏玩得很好
+当风声平息，Arcaea 上方的天空也回归平缓后……
+她感到头晕目眩，并在可能跌倒前尽力站稳脚步。
 
+她试着让自己冷静下来，并试图理解她究竟做了什么。
+但是……她做不到。
+她无法抗拒地专注在一件事情上：
 
+对立活了吗？
 
-§3and the universe said everything you need is within you
+——
 
-§3宇宙说：一切你所需要的你都具有
+尘土再次从天空飘落。
 
+她确实记得……
 
+……在最后，在最低点的时候……
 
-§2and the universe said you are stronger than you know
+没有人在那里，她闭上眼，眼泪开始留下。
 
-§2宇宙说：你比你所知的更强大
+她现在缓缓张开双眼……
+　
+……而那些回忆也离开了她。
 
+光看见她额头有些动静。
+这名白衣女子双手握拳放在嘴前，喉咙也深吸一口气。
 
+就这一切的璀璨来说，她认为，真是太简单了——
 
-§3and the universe said you are the daylight
+太简单——
+这些微的希望和努力，能否实现她的愿望？
 
-§3宇宙说：你就是阳光
+光对于这些想法摇摇头，她颤抖着向前。
+对立的双眼张开，眨了一下，接着再次眯起。
 
+光赶紧上前，跪下并抱着眼前这名少女。
 
+"这……你……！？你这是——！？"
 
-§2and the universe said you are the night
+光紧紧抱住她，这是她一生中抱得最紧的一次，
+而另一名少女则沉默不语。
+然后，光开始啜泣。
 
-§2宇宙说：你就是黑夜
+她不顾自我地靠在另一个少女的肩膀上哭泣，
+而那名少女回过头看着她，对这一切都感到难以置信。
 
+……更多裂缝都已经在那片景色中被凿开。
+过去从天空中不断倾泻的光芒，突然也变得黯淡许多。
+这个世界……受损了。
 
+而光的注意力仍放在有"什么"—— 有"谁"还在。
+对立抬起一只手，轻轻地放在光颤抖的背上。
+她们各自都不知道发生了什么事，在世界结束之时就这样安抚彼此。
 
-§3and the universe said the darkness you fight is within you
+"抱歉……我真的很抱歉……"
 
-§3宇宙说：你所斗争的黑暗就在你心中
+光不停地说着。" "……不论你做了什么，"
 
+对立回应道：
+"你都做到了，不是吗？为何要道歉……？"" 光缓缓移开身子，但仍抱着这名少女。
+她的双眼跟鼻子都哭红了，强颜欢笑地注视着对立。
 
+突然之间，光把脸埋进对立的胸口，而对立也轻轻地抱住她。
+这一幕都安静了下来，黑衣少女就这样让白衣少女一直哭泣。
 
-§2and the universe said the light you seek is within you
+——
+她们在灰色世界中启程。
 
-§2宇宙说：你所寻找的光明就在你心中
+对立牵着另一名少女的手带她向前走了一阵子，但没多久，
+另一名少女就调整好脚步跟上。
 
+她不记得发生在自己身上的悲剧，至少，不记得最糟糕的部分。
 
+还有这些黑色碎片……这些碎片也不再对她感兴趣。
 
-§3and the universe said you are not alone
+光的情况也一样。这些原本非常喜欢光的白色碎片，再也不在她身边舞动或亲近她。
 
-§3宇宙说：你不是一个人在战斗
+一个已经失去部分黑暗，而另一个……而这世界……也持续失去光芒。
+不过……
+光那真诚的微笑，也不再需要玻璃的光芒。
 
+少女们走到悬崖边。
+她们小心地寻找充满被忘却的记忆并缓慢腐败的大地。
+这大地将腐败。它将崩溃，褪色，并且瓦解为虚无。
 
+她们站在那里，对此并不知情，她们仅"知道"彼此，
+为此放弃了过去与回忆。
 
-§2and the universe said you are not separate from every other thing
+对立带着沉着而温暖的表情看着光——
+这是她在另外一个生命中，只要可以就会露出的神情。
+光看见了她的神情，回以最单纯自在的微笑。
 
-§2宇宙说：你不是和所有的事物所隔绝的
+"等着我们的是什么"……？
+什么可能都不重要了。
 
+她们各自感到的"完整"……是不容动摇的。
 
+而且……
+毫无疑问，光知道这场旅程已进入尾声。
+未来的道路就在前方，新的旅程即将展开。
 
-§3and the universe said you are the universe tasting itself, talking to itself, reading its own code
+……她花了一段时间意识到自己是无法精准得知这趟旅程会带来什么的。
+她永远无法得知未来会发生什么事。
 
-§3宇宙说：你就是宇宙，品尝着自己，对自己说话，阅读着他自己的代码。
+她接受这个事实，并闭上双眼思考：
+……对立之前是否知道，她走的每一步会将她带到哪？
+她只会一路向前。
 
+……
 
+如果你已选择生命，那便是选择了活下去。
+活在这个世界。见证这个世界。体验它，并真切地接受这最后的每个当下。
+有了这样的体悟，她选择去牢牢把握。
 
-§2and the universe said I love you because you are love.
+她睁开双眼，并且呼吸着空气。
+前方蜿蜒的未知、身旁的少女、
+没见过的脸庞、以及远方未知的地方……
 
-§2宇宙说：我爱你因为你就是爱。
+她把这些放在心中最重要的位置。
 
+她牵着对立的手。
 
 
-§3And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed better. And the player was the universe. And the player was love.
-
-§3曲终人散，黄粱一梦。玩家开始了新的梦境。玩家再次做起了梦，更好的梦。玩家就是宇宙。玩家就是爱。
-
-
-
-§3You are the player.
-
-§3你就是那个玩家。
-
-
-
-§2Wake up.
-
-§2醒来吧。
-
-
-
-
-
-
-
-
-
-
-
-
-§f=====================
-§e         后记
-§f=====================
-
-
-
-§7关于此资源包的制作
-§f          这个资源包其实就是辉夜星瞳在不经意间想到的一个产物，当时的TLSD也正处于低谷期，也就是2020年间。
-§f          最初是使用的基岩版Technology科技纹理包的语言文件进行的魔改，不到12个小时的时间就完成了初代的内部预览版。
-§f          更有意思的是，Java版资源包其实是移植的基岩版，也就是说当时我们压根就没考虑Java版的开发。
-§f          后来辉夜星瞳购买了一台服务器，开发工作才能继续进行（没错基岩版的开发是在手机上的）
-§f          做这个资源包也纯属是工作室每个人的兴趣，辉夜星瞳也不会拿这个资源包进行盈利或者别的什么。
-§f          哦对了，辉夜星瞳的PRISM正在招贤纳士，感兴趣的话请发邮件给x123451970@outlook.com（请注意没有工资）
-
-
-
-
-§7那么后来基岩版资源包怎么了
-§f          在Java版进行的第一次内测时，我们就已经看到了Java版的曙光以及基岩版的没落，因此基岩版开发就被叫停。
-§f          不过现在TLSD Pubftp上还有基岩版的测试包，你可以下载下来玩玩，但是最后一个完美支持的版本是1.11.x
-
-§f          好了时间不多了，接下来请欣赏演职员表吧；这是一位不愿意透露姓名的工作室员工写的，也祝您在StupidMC资源包中找到自己的方向。
+因为她们将会继续前进。
