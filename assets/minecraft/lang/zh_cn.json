@@ -1163,6 +1163,7 @@
     "options.video": "烧显卡设置...",
     "options.videoTitle": "烧显卡设置",
     "options.touchscreen": "希沃模式",
+    "options.invertMouse": "模拟飞行模式（反转鼠标Y轴）",
     "options.viewBobbing": "View Bobbing",
     "options.visible": "已显示",
     "options.vsync": "同步刷新率",
