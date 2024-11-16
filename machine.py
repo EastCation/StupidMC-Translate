@@ -48,7 +48,7 @@ class TranslatorApp(QMainWindow):
                     # 调整Value列的宽度
                     self.tableWidget.setColumnWidth(1, 400)
             except Exception as e:
-                QMessageBox.warning(self, "呜喵~ 出错啦！", f"无法载入文件: {e}")
+                QMessageBox.warning(self, "呜喵~ 出错啦！", f"无法载入文件，原因如下: {e}")
 
     def save_json(self):
         options = QFileDialog.Options()
@@ -64,7 +64,7 @@ class TranslatorApp(QMainWindow):
                 with open(fileName, 'w', encoding='utf-8') as file:
                     json.dump(data, file, ensure_ascii=False, indent=4)
             except Exception as e:
-                QMessageBox.warning(self, "呜喵~ 出错啦！", f"无法写入文件: {e}")
+                QMessageBox.warning(self, "呜喵~ 出错啦！", f"无法写入文件，原因如下: {e}")
 
     def insert_row(self):
         currentRow = self.tableWidget.currentRow()
