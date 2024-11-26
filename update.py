@@ -59,7 +59,7 @@ class MinecraftVersionViewer(QWidget):
 
             self.status_label.setText("状态：版本载入完成！")
         except Exception as e:
-            self.status_label.setText(f"Status: Error - {str(e)}")
+            self.status_label.setText(f"状态: 错误 - {str(e)}")
 
     def show_version_details(self, row, column):
         """Display details of the selected version."""
