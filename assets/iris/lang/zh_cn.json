@@ -1,0 +1,5 @@
+{
+    "$schema": "zh_cn.json",
+    "options.iris.colorSpace":"图形色彩空间",
+    "options.iris.colorSpace.sodium_tooltip":"图形色彩空间设定"
+}
