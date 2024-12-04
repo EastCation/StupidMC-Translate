@@ -1,0 +1,19 @@
+{
+    "sodium.options.pages.quality":"图形质量",
+    "sodium.options.pages.performance":"图形性能",
+    "sodium.options.pages.advanced":"高级图形选项",
+    "sodium.options.buttons.donate":"请给作者和译者买杯咖啡吧！",
+    "sodium.options.buttons.apply":"套用设定",
+    "$schema": "以下为图形质量部分",
+    "sodium.options.leaves_quality.name":"树叶质量",
+    "sodium.options.vignette.name":"投影光照",
+    "sodium.options.biome_blend.value":"%s",
+    "$settings.performance":"以下为图形性能部分，注意：“喵喵喵”是占位符",
+    "sodium.options.chunk_update_threads.nameDefault":"喵喵喵",
+    "sodium.options.always_defer_chunk_updates.name":"喵喵喵",
+    "sodium.options.use_block_face_culling.name":"喵喵喵",
+    "sodium.options.use_fog_occlusion.name":"使用雾闭塞",
+    "sodium.options.use_entity_culling.name":"喵喵喵",
+    "sodium.options.animate_only_visible_textures.name":"仅为可见的纹理载入动画",
+    "sodium.options.use_no_error_context.name":"使用没用错误的上下文"
+}

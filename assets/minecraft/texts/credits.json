@@ -1,13 +1,13 @@
 [
     
         {
-            "section": "辉夜萌雨软件发社（MoeRain Software Developments）",
+            "section": "萌雨社",
             "disciplines": [
                 {
-                    "discipline": "沙雕翻译包制作（StupidMC Translate）",
+                    "discipline": "沙雕翻译系列制作（StupidMC Series）",
                     "titles": [
                 {
-                    "title": "策划（Producer）",
+                    "title": "主要策划（Producer）",
                     "names": [
                         "辉夜星瞳"
                     ]
@@ -19,7 +19,7 @@
                     ]
                 },
                 {
-                    "title": "NRLT （原棱镜组Minecaea制作人员）",
+                    "title": "NRLT （编制外，原棱镜组Minecaea制作人员）",
                     "names":[
                         "Tairitsu （DOS支持）",
                         "Hikari （汇编工作）",
@@ -54,6 +54,27 @@
                     "names": [
                         "家郡",
                         "刘逍"
+                    ]
+                },
+                {
+                    "title": "主要翻译者与校对者（Main Translators and Checkers）",
+                    "names": [
+                        "辉夜星瞳",
+                        "暖日明曦（NRLT）",
+                        "动力之空_SD（独立开发者）"
+                    ]
+                },
+                {
+                    "title": "附加包开发（Addon Developer）",
+                    "names": [
+                        "辉夜星瞳"
+                    ]
+                },
+                {
+                    "title": "相关模组开发（Mod Developers）",
+                    "names": [
+                        "辉夜星瞳",
+                        "动力之空_SD（独立开发者）"
                     ]
                 },
                 {
@@ -114,28 +135,28 @@
                 {
                     "title": "许可协议",
                     "names": [
-                        "沙雕资源包本体使用GNU GPL-V3许可条款",
+                        "沙雕资源包本体与附属模组（开发中）使用GNU GPL-V3许可条款",
                         "沙雕附加包使用CC BY-NC-SA 4.0国际许可条款"
                     ]
                 },
                 {
                     "title": "特别感谢:",
                     "names": [
-                        "NuanR_Mxi Lazy Team",
-                        "保定市物探中心学校",
-                        "基岩版仙山云都服务器",
-                        "Twilight XI Firefly Edition Server Powered",
-                        "隔壁PCL2启动器",
-                        "澜舟云服务器",
-                        "还有腐竹真境",
-                        "社区版帮忙翻译的朋友们",
-                        "动力之空_SD",
-                        "对立（Axium）",
-                        "写写Word",
-                        "还有在玩这个游戏的你",
-                        "   => PRISM划水组帮忙测试的朋友",
+                        "NuanR_Mxi Lazy Team（协助）",
+                        "保定市物探中心学校（其他）",
+                        "基岩版仙山云都服务器（其他）",
+                        "曙光十一服务器，流萤定制版（驱动）",
+                        "隔壁PCL2启动器（其他）",
+                        "澜舟云服务器（推广）",
+                        "还有腐竹真境（推广）",
+                        "社区版帮忙翻译的朋友们（协助）",
+                        "动力之空_SD（协助）",
+                        "对立（Axium）（打音游）",
+                        "写写Word（协助）",
+                        "还有在玩这个游戏的你（测试/协助/报告提交/……）",
+                        "   => PRISM划水组帮忙测试的朋友（协助）",
                         "           mcwuguodadi 吴国大地",
-                        "           NuanR_Star-暖日",
+                        "           NuanR_Mxi-暖日",
                         "           cloudw233——好耶",
                         "",
                         "",
@@ -151,7 +172,7 @@
                     "names": [
                         "邮箱：starmoe@moerain.cn",
                         "QQ群：1004245106",
-                        "网站：https://moerain.cn",
+                        "网站：https://main.moerain.cn",
                         "哔哩：辉夜星瞳",
                         "",
                         "",
