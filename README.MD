@@ -19,7 +19,7 @@
 |-------|------|
 |Bedrockify|兼容加载提示|
 |Modmenu（模组菜单）|考虑兼容中|
-|Sodium（钠）|已兼容部分翻译|
+|Sodium（钠）|已完全兼容|
 |IRIS（鸢尾花光影加载器）|已兼容部分翻译|
 |~~quickbackupmulti（多槽位备份）~~|~~与作者讨论后无果，遂取消兼容~~|
 
@@ -39,6 +39,12 @@
     <pack.mcmeta>#资源包元文件，删除将导致资源包不可用
     [assets]
         [bedrockify]#兼容Bedrockify的模块
+            [lang]
+                <zh_cn.json>
+        [iris]
+            [lang]
+                <zh_cn.json>
+        [sodium]
             [lang]
                 <zh_cn.json>
         [minecraft]#原版兼容Minecraft的模块
