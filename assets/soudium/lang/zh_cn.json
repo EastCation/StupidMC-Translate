@@ -1,5 +1,8 @@
 {
     "$schema": "https://json.schemastore.org/jsconfig",
+    "modmenu.nameTranslation.sodium": "Sodium（钠）",
+    "modmenu.descriptionTranslation.sodium": "Sodium（钠）是一个强大的Minecraft渲染引擎，大大提高了帧率和减少了微缺陷，同时修复了可能的图形问题。",
+    "modmenu.summaryTranslation.sodium": "Sodium（钠）是一个强大的Minecraft渲染引擎，大大提高了帧率和减少了微缺陷，同时修复了可能的图形问题。",
     "sodium.options.pages.quality":"图形质量",
     "sodium.options.pages.performance":"图形性能",
     "sodium.options.pages.advanced":"高级图形选项",

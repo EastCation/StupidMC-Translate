@@ -44,11 +44,8 @@ class TranslatorApp(QMainWindow):
                     for row, (key, value) in enumerate(data.items()):
                         self.tableWidget.setItem(row, 0, QTableWidgetItem(key))
                         self.tableWidget.setItem(row, 1, QTableWidgetItem(value))
-
-                    # 调整Value列的宽度
-                    self.tableWidget.setColumnWidth(1, 400)
             except Exception as e:
-                QMessageBox.warning(self, "呜喵~ 出错啦！", f"无法载入文件，原因如下: {e}")
+                QMessageBox.critical(self, "错误", f"无法加载文件: {e}")
 
     def save_json(self):
         options = QFileDialog.Options()
@@ -64,15 +61,13 @@ class TranslatorApp(QMainWindow):
                 with open(fileName, 'w', encoding='utf-8') as file:
                     json.dump(data, file, ensure_ascii=False, indent=4)
             except Exception as e:
-                QMessageBox.warning(self, "呜喵~ 出错啦！", f"无法写入文件，原因如下: {e}")
+                QMessageBox.critical(self, "错误", f"无法保存文件: {e}")
 
     def insert_row(self):
-        currentRow = self.tableWidget.currentRow()
-        if currentRow == -1:  # 如果没有选中任何行，则在末尾插入
-            currentRow = self.tableWidget.rowCount()
-        self.tableWidget.insertRow(currentRow)
-        self.tableWidget.setItem(currentRow, 0, QTableWidgetItem("新的本地化键名"))
-        self.tableWidget.setItem(currentRow, 1, QTableWidgetItem("新的键值"))
+        rowPosition = self.tableWidget.rowCount()
+        self.tableWidget.insertRow(rowPosition)
+        self.tableWidget.setItem(rowPosition, 0, QTableWidgetItem(""))
+        self.tableWidget.setItem(rowPosition, 1, QTableWidgetItem(""))
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)

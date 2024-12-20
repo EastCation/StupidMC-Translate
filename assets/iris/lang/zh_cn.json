@@ -1,5 +1,8 @@
 {
     "$schema": "zh_cn.json",
+    "modmenu.nameTranslation.iris": "Iris shader（鸢尾花光影加载器）",
+    "modmenu.descriptionTranslation.iris": "与原有的OptiFine相兼容的更加现代的Minecraft光影包加载器",
+    "modmenu.summaryTranslation.iris": "与原有的OptiFine相兼容的更加现代的Minecraft光影包加载器",
     "options.iris.colorSpace":"图形色彩空间",
     "options.iris.colorSpace.sodium_tooltip":"图形色彩空间设定"
 }
