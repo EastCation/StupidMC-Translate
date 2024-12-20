@@ -1,3 +1,5 @@
+!["baner"](https://files.moerain.cn/f/nzIz/banner.png)
+
 # StupidMC Translate——沙雕翻译包源码库
 
 ## MoeRain Codeopen Project/已列入萌雨社开源计划
