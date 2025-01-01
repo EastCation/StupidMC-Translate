@@ -1402,7 +1402,7 @@
     "subtitles.entity.minecart.inside": "《我的世界》：摩擦",
     "subtitles.entity.minecart.inside_underwater": "《我的世界》：水下摩擦",
     "subtitles.item.elytra.flying": "暖日：飞起来！",
-    "title.credits": "Arcaea: ©lowiro, Minecraft: ©Mojang AB 2024 ",
+    "title.credits": "Arcaea: ©lowiro, Minecraft: ©Mojang AB 2025 ",
     "trim_material.minecraft.resin": "琥珀质",
     "trim_material.minecraft.diamond": "夏光质",
     "trim_material.minecraft.iron": "白铁质",
@@ -1424,5 +1424,131 @@
     "tutorial.punch_tree.description": "按住 %s",
     "tutorial.punch_tree.title": "要致富，先撸树",
     "tutorial.socialInteractions.description": "按 %s 打开",
-    "tutorial.socialInteractions.title": "唠嗑页面"
-}
+    "tutorial.socialInteractions.title": "唠嗑页面",
+    "block.minecraft.beacon.primary": "",
+
+        "block.minecraft.beacon.secondary": "",
+        "gui.recipebook.toggleRecipes.all": "",
+        "gui.recipebook.toggleRecipes.craftable": "",
+        "gui.recipebook.toggleRecipes.smeltable": "",
+        "gui.recipebook.toggleRecipes.blastable": "",
+        "gui.recipebook.toggleRecipes.smokable": "",
+        "container.inventory": "背包",
+        "container.crafting": "",
+        "container.dispenser": "",
+        "container.dropper":	"§f\uE998\uEc20",
+        "container.enchant": "",
+        "container.smoker": "",
+        "container.lectern": "",
+        "container.blast_furnace": "",
+        "container.repair": "",
+        "container.creative": "",
+        "container.brewing": "",
+        "container.enderchest":				"§f\uE999\uE996\uEc04",
+        "container.beacon": "",
+        "container.shulkerBox": "",
+        "container.barrel":                 "§f\uE999\uEc03",
+        "container.loom": "",
+        "container.grindstone_title": "",
+        "container.cartography_table": "",
+        "container.stonecutter": "",
+        "container.upgrade": "",
+        "container.upgrade.missing_template_tooltip": "",
+        "container.upgrade.error_tooltip": "",
+        "item.minecraft.smithing_template.armor_trim.base_slot_description": "",
+        "item.minecraft.smithing_template.netherite_upgrade.additions_slot_description": "",
+        "item.minecraft.smithing_template.armor_trim.additions_slot_description": "",
+        "item.minecraft.smithing_template.netherite_upgrade.base_slot_description": "",
+        "entity.minecraft.hopper_minecart": "",
+        "entity.minecraft.chest_boat": "",
+        "gui.recipebook.search_hint": "§f搜索一下...",
+    
+    
+        
+        "merchant.trades": "§f\uE995\uE995\uE995\uEe99",
+    
+       
+        "rpo.colourfulcontainers": "Some other name",
+        "rpo.colourfulcontainers.title": "Colourful Containers",
+        "rpo.colourfulcontainers.someTexture": "Some Texture",
+    
+        "rpo.colourfulcontainers.textcategory.showtext": "Hide GUI Text's",
+        "rpo.colourfulcontainers.textcategory.showtext.tooltip": "English (US) only",
+    
+        
+        "rpo.colourfulcontainers.textcategory.title": "文本",
+        
+        
+        "rpo.colourfulcontainers.otherguicategory.title": "Other GUI's",
+    
+        "rpo.colourfulcontainers.otherguicategory.survivalinventory": "§f§lSurvival Inventory",
+        "rpo.colourfulcontainers.otherguicategory.survivalinventory.empty1": "  ",
+        "rpo.colourfulcontainers.otherguicategory.survivalinventory.empty2": "  ",
+    
+        "rpo.colourfulcontainers.otherguicategory.inventoryactive": "use Inventory texture",
+        "rpo.colourfulcontainers.otherguicategory.inventorytype": "  ⤷ Inventory version",
+        "rpo.colourfulcontainers.otherguicategory.inventorytype.paper": "Paper",
+        "rpo.colourfulcontainers.otherguicategory.inventorytype.slot": "Slot",
+        "rpo.colourfulcontainers.otherguicategory.inventorytype.off": "§cDefault",
+    
+        "rpo.colourfulcontainers.otherguicategory.recipebook": "§f§lRecipe Book",
+        "rpo.colourfulcontainers.otherguicategory.recipebook.empty1": "  ",
+        "rpo.colourfulcontainers.otherguicategory.recipebook.empty2": "  ",
+        "rpo.colourfulcontainers.otherguicategory.recipebooktype": "  ⤷ Recipe Book version",
+        "rpo.colourfulcontainers.otherguicategory.recipebooktype.green": "Green",
+        "rpo.colourfulcontainers.otherguicategory.recipebooktype.brown": "Brown",
+        "rpo.colourfulcontainers.otherguicategory.recipebooktype.off": "§cDefault",
+    
+        
+        "rpo.colourfulcontainers.guicategory.title": "Block GUI's",
+    
+       
+        "rpo.colourfulcontainers.guicategory.storage": "§f§lStorage",
+        "rpo.colourfulcontainers.guicategory.storage.empty1": "  ",
+        "rpo.colourfulcontainers.guicategory.storage.empty2": "  ",
+        "rpo.colourfulcontainers.guicategory.chest": "  ⤷ Chest",
+        "rpo.colourfulcontainers.guicategory.barrel": "  ⤷ Barrel",
+        "rpo.colourfulcontainers.guicategory.enderchest": "  ⤷ Ender chest",
+        "rpo.colourfulcontainers.guicategory.shulkerbox": "  ⤷ Shulkerbox",
+        
+        
+        "rpo.colourfulcontainers.guicategory.cookingandsmelting": "§f§lCooking and Smelting",
+        "rpo.colourfulcontainers.guicategory.cookingandsmelting.empty1": "  ",
+        "rpo.colourfulcontainers.guicategory.cookingandsmelting.empty2": "  ",
+        "rpo.colourfulcontainers.guicategory.furnace": "  ⤷ 烧炼炉",
+        "rpo.colourfulcontainers.guicategory.blastfurnace": "  ⤷ Blast furnace",
+        "rpo.colourfulcontainers.guicategory.smoker": "  ⤷ Smoker",
+    
+        
+        "rpo.colourfulcontainers.guicategory.crafting": "§f§l合成",
+        "rpo.colourfulcontainers.guicategory.crafting.empty1": "  ",
+        "rpo.colourfulcontainers.guicategory.crafting.empty2": "  ",
+        "rpo.colourfulcontainers.guicategory.craftingtable": "  ⤷ 合成台",
+        "rpo.colourfulcontainers.guicategory.crafter": "  ⤷ 牛爷爷全自动工作台",
+            "rpo.colourfulcontainers.guicategory.stonecutter": "  ⤷ 切石机",
+    
+        
+        "rpo.colourfulcontainers.guicategory.redstone": "§f§l雷石东",
+        "rpo.colourfulcontainers.guicategory.redstone.empty1": "  ",
+        "rpo.colourfulcontainers.guicategory.redstone.empty2": "  ",
+        "rpo.colourfulcontainers.guicategory.hopper": "  ⤷ 内存条",
+        "rpo.colourfulcontainers.guicategory.dispenser": "  ⤷ Dispenser",
+        "rpo.colourfulcontainers.guicategory.dropper": "  ⤷ Dropper",
+        "rpo.colourfulcontainers.guicategory.enchantinganddisenchanting": "§f§lEnchanting and Disenchanting",
+        "rpo.colourfulcontainers.guicategory.enchantinganddisenchanting.empty1": "  ",
+        "rpo.colourfulcontainers.guicategory.enchantinganddisenchanting.empty2": "  ",
+        "rpo.colourfulcontainers.guicategory.enchantingtable": "  ⤷ Enchanting Table",
+        "rpo.colourfulcontainers.guicategory.grindstone": "  ⤷ Grindstone",
+        "rpo.colourfulcontainers.guicategory.anvil": "  ⤷ Anvil",
+    
+        "rpo.colourfulcontainers.guicategory.other": "§f§lOther",
+        "rpo.colourfulcontainers.guicategory.other.empty1": "  ",
+        "rpo.colourfulcontainers.guicategory.other.empty2": "  ",
+        "rpo.colourfulcontainers.guicategory.beacon": "  ⤷ Beacon",
+        "rpo.colourfulcontainers.guicategory.brewingstand": "  ⤷ Brewing stand",
+        "rpo.colourfulcontainers.guicategory.cartographytable": "  ⤷ Cartography Table",
+        "rpo.colourfulcontainers.guicategory.loom": "  ⤷ Loom",
+        "rpo.colourfulcontainers.guicategory.smithingtable": "  ⤷ Smithing Table"
+    
+    
+      }
