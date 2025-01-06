@@ -78,6 +78,26 @@
                     ]
                 },
                 {
+                    "title": "录制以及胶片拷贝（喵？）",
+                    "names": [
+                        "辉夜星瞳",
+                        "Kaguya Hoshihitomi",
+                        "ReplayMod",
+                        "Kdenlive",
+                        "OBS Studio",
+                        "Adobe Premiere Pro",
+                        "Adobe After Effects",
+                        "Adobe Audition",
+                        "原萌雨社照排室进行胶片拷贝"
+                    ]
+                },
+                {
+                    "title": "出版发行（Publish）",
+                    "names": [
+                        "萌雨社照排室"
+                    ]
+                },
+                {
                     "title": "音乐——片头:",
                     "names": [
                         "如我所见《明日方舟》——塞壬唱片MSR",
@@ -818,13 +838,13 @@
                         ]
                     },
                     {
-                        "title": "Director of Internal New Games",
+                        "title": "内置新游戏主管（Director of Internal New Games）",
                         "names": [
                             "David Nisshagen"
                         ]
                     },
                     {
-                        "title": "Director of Minecraft Launcher",
+                        "title": "官方启动器主管（Director of Minecraft Launcher）",
                         "names": [
                             "David Siegel"
                         ]
@@ -985,13 +1005,13 @@
                         ]
                     },
                     {
-                        "title": "Technical Program Manager Lead",
+                        "title": "技术程序组长（Technical Program Manager Lead）",
                         "names": [
                             "Eric Odell-Hein"
                         ]
                     },
                     {
-                        "title": "技术项目经理（Technical Program Managers）s",
+                        "title": "技术项目经理（Technical Program Managers）",
                         "names": [
                             "Aysha Davis (Cyborg Mobile LLC)",
                             "Beth Carty (Insight Global, Inc)",
@@ -1561,7 +1581,7 @@
                         ]
                     },
                     {
-                        "title": "Operations Manager, Global",
+                        "title": "全球运营经理（Operations Manager, Global）",
                         "names": [
                             "Ellen Hahm"
                         ]

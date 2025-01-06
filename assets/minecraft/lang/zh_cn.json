@@ -1472,8 +1472,8 @@
         "rpo.colourfulcontainers.title": "Colourful Containers",
         "rpo.colourfulcontainers.someTexture": "Some Texture",
     
-        "rpo.colourfulcontainers.textcategory.showtext": "Hide GUI Text's",
-        "rpo.colourfulcontainers.textcategory.showtext.tooltip": "English (US) only",
+        "rpo.colourfulcontainers.textcategory.showtext": "隐藏GUI文本",
+        "rpo.colourfulcontainers.textcategory.showtext.tooltip": "英文和简体中文独有功能",
     
         
         "rpo.colourfulcontainers.textcategory.title": "文本",
@@ -1481,43 +1481,43 @@
         
         "rpo.colourfulcontainers.otherguicategory.title": "Other GUI's",
     
-        "rpo.colourfulcontainers.otherguicategory.survivalinventory": "§f§lSurvival Inventory",
+        "rpo.colourfulcontainers.otherguicategory.survivalinventory": "§f§l生存模式背包",
         "rpo.colourfulcontainers.otherguicategory.survivalinventory.empty1": "  ",
         "rpo.colourfulcontainers.otherguicategory.survivalinventory.empty2": "  ",
     
-        "rpo.colourfulcontainers.otherguicategory.inventoryactive": "use Inventory texture",
-        "rpo.colourfulcontainers.otherguicategory.inventorytype": "  ⤷ Inventory version",
-        "rpo.colourfulcontainers.otherguicategory.inventorytype.paper": "Paper",
-        "rpo.colourfulcontainers.otherguicategory.inventorytype.slot": "Slot",
-        "rpo.colourfulcontainers.otherguicategory.inventorytype.off": "§cDefault",
+        "rpo.colourfulcontainers.otherguicategory.inventoryactive": "使用背包纹理",
+        "rpo.colourfulcontainers.otherguicategory.inventorytype": "  ⤷ 背包版本",
+        "rpo.colourfulcontainers.otherguicategory.inventorytype.paper": "纸",
+        "rpo.colourfulcontainers.otherguicategory.inventorytype.slot": "槽位",
+        "rpo.colourfulcontainers.otherguicategory.inventorytype.off": "§c默认",
     
-        "rpo.colourfulcontainers.otherguicategory.recipebook": "§f§lRecipe Book",
+        "rpo.colourfulcontainers.otherguicategory.recipebook": "§f§l配方书",
         "rpo.colourfulcontainers.otherguicategory.recipebook.empty1": "  ",
         "rpo.colourfulcontainers.otherguicategory.recipebook.empty2": "  ",
-        "rpo.colourfulcontainers.otherguicategory.recipebooktype": "  ⤷ Recipe Book version",
-        "rpo.colourfulcontainers.otherguicategory.recipebooktype.green": "Green",
-        "rpo.colourfulcontainers.otherguicategory.recipebooktype.brown": "Brown",
-        "rpo.colourfulcontainers.otherguicategory.recipebooktype.off": "§cDefault",
+        "rpo.colourfulcontainers.otherguicategory.recipebooktype": "  ⤷  配方书版本",
+        "rpo.colourfulcontainers.otherguicategory.recipebooktype.green": "绿色",
+        "rpo.colourfulcontainers.otherguicategory.recipebooktype.brown": "棕色",
+        "rpo.colourfulcontainers.otherguicategory.recipebooktype.off": "§c默认",
     
         
         "rpo.colourfulcontainers.guicategory.title": "Block GUI's",
     
        
-        "rpo.colourfulcontainers.guicategory.storage": "§f§lStorage",
+        "rpo.colourfulcontainers.guicategory.storage": "§f§l存储",
         "rpo.colourfulcontainers.guicategory.storage.empty1": "  ",
         "rpo.colourfulcontainers.guicategory.storage.empty2": "  ",
-        "rpo.colourfulcontainers.guicategory.chest": "  ⤷ Chest",
+        "rpo.colourfulcontainers.guicategory.chest": "  ⤷ 硬盘/大型硬盘",
         "rpo.colourfulcontainers.guicategory.barrel": "  ⤷ Barrel",
-        "rpo.colourfulcontainers.guicategory.enderchest": "  ⤷ Ender chest",
+        "rpo.colourfulcontainers.guicategory.enderchest": "  ⤷ ftp服务器终端",
         "rpo.colourfulcontainers.guicategory.shulkerbox": "  ⤷ Shulkerbox",
         
         
-        "rpo.colourfulcontainers.guicategory.cookingandsmelting": "§f§lCooking and Smelting",
+        "rpo.colourfulcontainers.guicategory.cookingandsmelting": "§f§l烹饪与锻造",
         "rpo.colourfulcontainers.guicategory.cookingandsmelting.empty1": "  ",
         "rpo.colourfulcontainers.guicategory.cookingandsmelting.empty2": "  ",
         "rpo.colourfulcontainers.guicategory.furnace": "  ⤷ 烧炼炉",
-        "rpo.colourfulcontainers.guicategory.blastfurnace": "  ⤷ Blast furnace",
-        "rpo.colourfulcontainers.guicategory.smoker": "  ⤷ Smoker",
+        "rpo.colourfulcontainers.guicategory.blastfurnace": "  ⤷ 炼钢炉",
+        "rpo.colourfulcontainers.guicategory.smoker": "  ⤷ 烟熏机",
     
         
         "rpo.colourfulcontainers.guicategory.crafting": "§f§l合成",
@@ -1533,18 +1533,18 @@
         "rpo.colourfulcontainers.guicategory.redstone.empty2": "  ",
         "rpo.colourfulcontainers.guicategory.hopper": "  ⤷ 内存条",
         "rpo.colourfulcontainers.guicategory.dispenser": "  ⤷ Dispenser",
-        "rpo.colourfulcontainers.guicategory.dropper": "  ⤷ Dropper",
-        "rpo.colourfulcontainers.guicategory.enchantinganddisenchanting": "§f§lEnchanting and Disenchanting",
+        "rpo.colourfulcontainers.guicategory.dropper": "  ⤷ 投掷器",
+        "rpo.colourfulcontainers.guicategory.enchantinganddisenchanting": "§f§l负魔与驱魔",
         "rpo.colourfulcontainers.guicategory.enchantinganddisenchanting.empty1": "  ",
         "rpo.colourfulcontainers.guicategory.enchantinganddisenchanting.empty2": "  ",
-        "rpo.colourfulcontainers.guicategory.enchantingtable": "  ⤷ Enchanting Table",
-        "rpo.colourfulcontainers.guicategory.grindstone": "  ⤷ Grindstone",
-        "rpo.colourfulcontainers.guicategory.anvil": "  ⤷ Anvil",
+        "rpo.colourfulcontainers.guicategory.enchantingtable": "  ⤷ 负魔台",
+        "rpo.colourfulcontainers.guicategory.grindstone": "  ⤷ 青豆豆",
+        "rpo.colourfulcontainers.guicategory.anvil": "  ⤷ 铁砧",
     
-        "rpo.colourfulcontainers.guicategory.other": "§f§lOther",
+        "rpo.colourfulcontainers.guicategory.other": "§f§l其他",
         "rpo.colourfulcontainers.guicategory.other.empty1": "  ",
         "rpo.colourfulcontainers.guicategory.other.empty2": "  ",
-        "rpo.colourfulcontainers.guicategory.beacon": "  ⤷ Beacon",
+        "rpo.colourfulcontainers.guicategory.beacon": "  ⤷ 培根方块",
         "rpo.colourfulcontainers.guicategory.brewingstand": "  ⤷ Brewing stand",
         "rpo.colourfulcontainers.guicategory.cartographytable": "  ⤷ Cartography Table",
         "rpo.colourfulcontainers.guicategory.loom": "  ⤷ Loom",
