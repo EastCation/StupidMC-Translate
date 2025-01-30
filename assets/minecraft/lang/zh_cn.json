@@ -449,6 +449,8 @@
     "block.minecraft.wildflowers":"野花",
     "block.minecraft.test_block":"测试方块",
     "block.minecraft.test_instance_block":"测试实例方块",
+    "block.minecraft.bush":"布什",
+    "block.minecraft.firefly_bush":"流萤布什",
     "build.tooHigh": "盖楼限制是 %s 个方块",
     "chat.cannotSend": "消息莫得发送",
     "chat.copy": "放到剪贴板",
