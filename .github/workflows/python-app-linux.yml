@@ -31,3 +31,8 @@ jobs:
       run: |
         pyinstaller machine.py
         pyinstaller update.py
+    - name: Upload
+      uses: actions/upload-artifact@v3
+      with:
+          name: Update EXE
+          path: build/update/update.exe
