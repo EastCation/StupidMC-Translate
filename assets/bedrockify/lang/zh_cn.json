@@ -1,4 +1,10 @@
 {
+  "bedrockify.options.categories.gameplay": "游戏性",
+  "bedrockify.options.categories.gui:":"界面",
+  "bedrockify.options.categories.visualImprovements": "视觉改进",
+  "bedrockify.options.categories.mixins": "Mixins",
+  "bedrockify.options.fallentrees": "倒下的树木",
+  "bedrockify.options.fitreAspectLighting": "适应光照",
   "bedrockify.loadingTips.1": "你们所熟悉的六芒星镜像组SPM已经变成了棱镜PRISM了哦！（然后PRISM交给暖日管了）",
   "bedrockify.loadingTips.2": "天青色等烟雨，AP在等你",
   "bedrockify.loadingTips.3": "炊烟袅袅升起，Miss千万里",
