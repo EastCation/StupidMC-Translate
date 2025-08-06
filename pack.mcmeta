@@ -1,7 +1,7 @@
 {
-"pack" : {
-"pack_format" : 62,
-"supported_formats":[4,99]
-"description" : "沙雕翻译包，为用户带来全新的MC的体验（确信）"
-}
+    "pack":{
+        "description": "沙雕翻译包，为用户带来全新的MC的体验（确信）",
+        "pack_format": 64,
+        "supported_formats": [62,64]
+    }
 }
